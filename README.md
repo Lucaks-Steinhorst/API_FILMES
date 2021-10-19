@@ -1,3 +1,9 @@
+Criando um site em REACT simples usando uma API de filmes e as coisas que aprendi na faculdade. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
